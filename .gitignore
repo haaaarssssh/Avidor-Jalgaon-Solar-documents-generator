@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+uploads/
+*.docx.tmp
+.DS_Store
+.env
+instance/
+dockerignore
